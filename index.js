@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
   let up = `Hasi-Ai connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/F4y648g3/9bb0e4c75bae.jpg` }, caption: up })
 
 }
 })
